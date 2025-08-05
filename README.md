@@ -1,4 +1,4 @@
-# AirBnB Listing & Reviews
+# 🏡 AirBnB Listings and Reviews Analysis
 Airbnb is an online marketplace that connects people who want to rent out their homes with travelers seeking accommodations. 
 
 ## Project Link
@@ -6,6 +6,59 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 [AirBnB Project Analysis](AirBnB_Project_Analaysis.ipynb)
 
 <img width="1157" height="648" alt="Image" src="https://github.com/user-attachments/assets/d9361514-88d4-4897-b73f-c9ed0890d0bb" />
+
+# 📊 Steps Involved
+# 1 Loading and Checking the Dataset
+
+- Initial exploration of the dataset
+
+- Viewing the first few rows
+
+Checking column names and datatypes
+
+# 2 Dataset Information
+
+- Descriptive statistics
+
+- Null value checks
+
+- Dataset shape (rows and columns)
+
+# 3 Filtering Columns and Rows
+
+- Removing irrelevant or redundant data
+
+- Focusing on key columns for analysis
+
+# 4 Data Cleaning
+
+- Handling missing values
+
+- Formatting columns like dates, prices, etc.
+
+# 5 Exploratory Data Analysis (EDA)
+
+- Visualization of pricing patterns
+
+- Analysis of availability and locations
+
+- Host listing count and ratings
+
+# 6 Conclusions
+
+- Key findings from the analysis
+
+- Possible recommendations for guests or hosts
+
+# 🛠️ Tools & Technologies Used
+- Python 3
+
+- Jupyter Notebook
+
+- Pandas, NumPy
+
+- Matplotlib, Seaborn
+
 
 ## Overview :
 This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
