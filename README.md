@@ -3,7 +3,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 ## Project Link
 
-[AirBnB Project_Analaysis](AirBnB_Impact_of_Regulation.ipynb)
+[AirBnB Project_Analaysis](AirBnB_Impact_of_Regulation (1).ipynb)
 
 <img src="https://www.stocksbnb.com/wp-content/uploads/2021/08/airbnb-678x381-1.png" width=1000>
 
