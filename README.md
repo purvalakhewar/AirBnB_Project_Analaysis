@@ -5,7 +5,7 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 [AirBnB Project Analysis](AirBnB_Project_Analaysis.ipynb)
 
-<img src="https://www.stocksbnb.com/wp-content/uploads/2021/08/airbnb-678x381-1.png" width=1000>
+<img width="1157" height="648" alt="Image" src="https://github.com/user-attachments/assets/d9361514-88d4-4897-b73f-c9ed0890d0bb" />
 
 ## Overview :
 This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
